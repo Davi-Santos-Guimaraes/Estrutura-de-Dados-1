@@ -6,7 +6,7 @@
 
 int main() {
     int n;
-    srand(time(NULL));
+    srand(time(NULL));//comentário engraçado
 
     printf("--- Ordenacao com Pilha Dinamica ---\n");
     printf("Digite o tamanho do vetor (ou -1 para sair): ");
